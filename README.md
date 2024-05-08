@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hossam Hazem
+- 👀 I’m interested in building apps with flutter
+- 🌱 I’m currently learning android native with java & kotlin
+- 📫 How to reach me : this is my mail hossam.hazem.1903@gmail.com
+- ⚡ Fun fact:  The term "bug" in computer science originated in 1947 when Grace Hopper, a pioneering computer scientist, found an actual moth causing a malfunction in the Harvard Mark II computer. She taped the moth into the computer's logbook with the annotation: "First actual case of bug being found." Since then, "debugging" has been the term used for fixing errors in code.
